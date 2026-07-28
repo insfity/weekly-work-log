@@ -1,0 +1,13 @@
+.build/
+dist/
+.swiftpm/
+DerivedData/
+
+.DS_Store
+*.xcuserstate
+
+.env
+.env.*
+*.pem
+*.key
+worklog.json
